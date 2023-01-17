@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zack</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zckyy&label=Profile%20views&color=0e75b6&style=flat" alt="zckyy" /> </p>
 
 - 🌱 I’m currently learning **Python and C#**
